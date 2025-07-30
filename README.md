@@ -41,3 +41,6 @@ Add a Bucket Policy to allow public read access:
     }
   ]
 }
+
+<img width="1335" height="454" alt="image" src="https://github.com/user-attachments/assets/15c9025a-ce77-4b16-8351-83931bfb756e" />
+
